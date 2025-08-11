@@ -1,11 +1,11 @@
 import React from 'react'
-import Resume from '../assets/Resume.pdf'
+import Resume from '../assets/YusufChaudhary_CV.pdf'
 
 const Hero = () => {
   return (
     <div className=' bg-black text-white text-center py-52'>
         <h1 className='text-5xl font-bold '>I'm {" "}
-        <span className='animate-fade-right text-5xl text-transparent bg-clip-text bg-gradient-to-r from-yellow-600 to to-red-700'>Zayan Chaudhary</span>
+        <span className='animate-fade-right text-5xl text-transparent bg-clip-text bg-gradient-to-r from-yellow-600 to to-red-700'>Yusuf Chaudhary</span>
         </h1>
         <p className='mt-4 text-gray-400'>Currently Studying Computer Science at QMUL</p>
        <div className='mt-24'>
